@@ -8,7 +8,7 @@ Created a basic webpage that could blur the background when the pop-up appears o
 
 ## Screenshots
 
-![App Screenshot](hhttps://github.com/vimalpksh/blurred-background-popup/blob/main/11.PNG?raw=true)
+![App Screenshot](https://github.com/vimalpksh/blurred-background-popup/blob/main/11.PNG?raw=true)
 
 ## Demo
 

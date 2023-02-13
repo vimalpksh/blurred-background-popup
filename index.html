@@ -6,23 +6,33 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Blurred Video Background</title>
     <link rel="stylesheet" href="style.css" />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/all.min.css"
+      integrity="sha512-SzlrxWUlpfuzQ+pcUCosxcglQRNAq/DZjVsC0lE40xsADsfeQoEypE+enwcOiGjk/bSuGGKHEyjSoQ1zVisanQ=="
+      crossorigin="anonymous"
+      referrerpolicy="no-referrer"
+    />
   </head>
   <body>
     <div class="container">
-      <h1>Welcome to our website</h1>
-      <button class="btn" id="btn">Click to join</button>
+      <h1>WELCOME TO OUR STORE</h1>
+      <button class="btn" id="btn">
+        <span class="btnText">Explore</span>
+      </button>
     </div>
-    <div class="popup" id="popup">
+    <div class="popup active" id="popup">
       <h4>SALE 20% OFF</h4>
-      <label for="email">Your Email</label>
+      <label for="email">Your Email: </label>
       <input
         type="text"
         class="emailIp"
         id="emailIp"
         name="emailIp"
-        placeholder="Your email address"
+        placeholder="Enter email address"
+        focus
       />
-      <button class="popBtn" id="popBtn">Join</button>
+      <button class="popBtn" id="popBtn">Register</button>
       <div class="close-icon">
         <i class="fa-solid fa-xmark fa-2x"></i>
       </div>

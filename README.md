@@ -4,7 +4,7 @@ Created a basic webpage that could blur the background when the pop-up appears o
 
 ## Tech Stack
 
-**Client:** HTML, CSS, JavaScript
+ HTML, CSS, JavaScript
 
 ## Screenshots
 
